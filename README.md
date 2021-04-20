@@ -41,7 +41,7 @@
 <Text
     onPress={() => alert('onPress')}>Text Component onPress Listener</Text>
 ```
-## selectable
+## selectable :
 <p>Lets the user select text, to use the native copy and paste functionality.</p>
 
 ```js
