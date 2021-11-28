@@ -14,7 +14,7 @@ When we use <b>Text component into another Text component</b> then the <b>childr
 
 ```js
 <Text style={{ color: "tomato" }}>
-  Text Component can be{" "}
+  Text Component can be 
   <Text style={{ fontSize: 20, fontWeight: "bold" }}>Nested</Text>
 </Text>
 ```
