@@ -1,5 +1,7 @@
 # React Native Text Component
 
+A React component for displaying text.
+
 ## Usage :
 
 Import Text from 'react-native' and then use it.
